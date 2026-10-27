@@ -1,0 +1,66 @@
+{
+  "cards": [
+    {
+      "name": "VLOOKUP",
+      "source_html_sha256": "9945d25dfa269a79750aab2d68180fa56c093773ec17a74a886f74bcfe3ba20f",
+      "source_text_characters": 6937,
+      "questions": 3
+    },
+    {
+      "name": "XLOOKUP",
+      "source_html_sha256": "d3a08806399b6afffddbeeebb01cc25bc21688ff60899bac65176b81580583f1",
+      "source_text_characters": 9642,
+      "questions": 3
+    },
+    {
+      "name": "IF",
+      "source_html_sha256": "4ce8ff489c2bdff35c7532ba138f293dd3eb10a66f87076306734a7ef1f32084",
+      "source_text_characters": 7557,
+      "questions": 3
+    },
+    {
+      "name": "SUMIF",
+      "source_html_sha256": "622963b5b415a374ee0583eca4466bc428f91770f3b77588c75416b45f7f32e2",
+      "source_text_characters": 9703,
+      "questions": 3
+    },
+    {
+      "name": "IFERROR",
+      "source_html_sha256": "9f32964c4266ea59f4e6575d5e3e684490203763eda3b3a7ebb65b35e00902b2",
+      "source_text_characters": 10145,
+      "questions": 3
+    },
+    {
+      "name": "COUNTA",
+      "source_html_sha256": "febafb83cb4fe5ad5d4821db5e47f96866b287cdd5eda2a9e7d6a8319ac3606f",
+      "source_text_characters": 8234,
+      "questions": 3
+    },
+    {
+      "name": "LEFT・RIGHT・MID",
+      "source_html_sha256": "4037ba40985d1126c662d2f80f195a4de4f16f59cc0211fcc06b497d2281a23e",
+      "source_text_characters": 11513,
+      "questions": 3
+    },
+    {
+      "name": "SUBTOTAL",
+      "source_html_sha256": "2a11d8801b8236f7e6263e90b4550ee1209a82d3e35afa97312c19f3f476d4a0",
+      "source_text_characters": 10419,
+      "questions": 3
+    },
+    {
+      "name": "AND・OR",
+      "source_html_sha256": "d187f8ea3cf997aa8135113d0c0b4df34a519e038efc3fcff916eb67e9f7feca",
+      "source_text_characters": 10858,
+      "questions": 3
+    },
+    {
+      "name": "INDEX＋MATCH",
+      "source_html_sha256": "4967c07cc7f4a551c520f5018edfc8dccac2e4649c04031eb8ea5890bb913c5b",
+      "source_text_characters": 3886,
+      "questions": 3
+    }
+  ],
+  "index_sha256": "a7f5780058de69b12dab2cf3b1e0f9ccc08f418f3232dae58dc31ff1affade77",
+  "validation": "DOM tests passed; browser rendering not yet verified"
+}
